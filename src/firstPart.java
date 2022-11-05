@@ -1,6 +1,7 @@
 public class firstPart {
     public static void main(String[] args) {
         // задача 1
+        //Pls, check my homework
         System.out.println("Задача 1");
         int total = 0;
         int contribution = 15000;

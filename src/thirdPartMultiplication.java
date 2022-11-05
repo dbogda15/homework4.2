@@ -5,4 +5,5 @@ public class thirdPartMultiplication {
             System.out.println("2 * " + i + " = " + number * i);
         }
     }
+    //homework
 }
