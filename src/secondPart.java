@@ -1,7 +1,7 @@
 public class secondPart {
     public static void main(String[] args) {
         // задача 1
-        System.out.println("Задача 1");
+        System.out.println("задача 1");
         int total = 0;
         int contribution = 15000;
         int month = 0;

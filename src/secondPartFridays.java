@@ -9,5 +9,6 @@ public class secondPartFridays {
                 System.out.println("Сегодня пятница, " + friday + "-е число. Необходимо подготовить отчет.");
                 friday += 7;
         }
+        //homework
     }
 }

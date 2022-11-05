@@ -16,4 +16,5 @@ public class cometSecondVersion {
                 System.out.println("комета пролетит в " + year + " году");}
         }
     }
+    //homework
 }
